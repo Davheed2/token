@@ -1,5 +1,6 @@
 {
-    "name": "Test Collection",
-    "description": "description for test collections",
+    "name": "Test NFT",
+    "symbol": "MEMEFI NFT",
+    "description": "description for test NFT",
     "image": "https://raw.githubusercontent.com/Davheed2/token/main/image/GK5kZ7xXMAEltG9.png"
 }
